@@ -1,0 +1,91 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 640  (ID=0xfc1)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\project\vgame\unity_client\out_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\project\vgame\unity_client\out_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\project\vgame\unity_client\out_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\project\vgame\unity_client\out_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\project\vgame\unity_client\out_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\project\vgame\unity_client\out_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\project\vgame\unity_client\out_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\project\vgame\unity_client\out_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: E:\project\vgame\unity_client\out_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\project\vgame\unity_client\out_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.479878 ms
+连接服务器成功！
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19bc -> priority: 1 
+---a---
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+send msg: 10001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+recv len: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+recv msg: 10002
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+BroadcastException: Broadcasting message "Login" but no listener found. Try marking the message with Messenger.MarkAsPermanent.
+  at Messenger.OnBroadcasting (System.String eventType) [0x00000] in <filename unknown>:0 
+  at Messenger.Broadcast[CMsgAccountLoginResponse] (System.String eventType, login_message.CMsgAccountLoginResponse arg1) [0x00000] in <filename unknown>:0 
+  at LoginController.HandlerLogin (Int32 msgId, System.Object obj) [0x00000] in <filename unknown>:0 
+  at MessageDispatcher.DispatchMessage () [0x00000] in <filename unknown>:0 
+  at ApplicationManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+---a---
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+send msg: 10001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+---a---
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+send msg: 10001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+---a---
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+send msg: 10003
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+mStream.Read error: Read failure
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+recv len: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+---------- mstream.read = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

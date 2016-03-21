@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ApplicationManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\socket\Net\MessageDispatcher.cs" Line="39" Column="31" />
+      <File FileName="Assets\3rd\protobuf-net\ProtoReader.cs" Line="484" Column="37" />
+      <File FileName="Assets\Scripts\messageevent\Messenger.cs" Line="277" Column="53" />
+      <File FileName="Assets\Scripts\ApplicationManager.cs" Line="16" Column="35" />
+      <File FileName="Assets\Scripts\Module\Login\LoginUI.cs" Line="40" Column="71" />
+      <File FileName="Assets\Scripts\messageevent\Callback.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\socket\Net\NetManager.cs" Line="174" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\project\vgame\unity_client\Assets\Scripts\socket\Net\MessageDispatcher.cs" line="35" column="1" />
+      <Breakpoint file="E:\project\vgame\unity_client\Assets\Scripts\Module\Login\LoginUI.cs" line="84" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
