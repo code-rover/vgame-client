@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # skynet-unity-client
 A MMORPG client 
 
@@ -16,3 +17,6 @@ A MMORPG client
 
 NetManager.Instance.RegisterProtoHandler(MsgIDDefineDic.LOGIN_MESSAGE_CMSGACCOUNTLOGINRESPONSE, HandlerLogin);
 
+=======
+# vgame-client
+>>>>>>> ed5578a41c1f28d92e1bf6caa6cf5a2afa5f7c8e
